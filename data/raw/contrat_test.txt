@@ -1,0 +1,25 @@
+CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE (CDI)
+
+Entre les soussignés :
+La société TECH MAROC, dont le siège social est situé à Casablanca,
+Et :
+M. Zakaria, domicilié à Rabat.
+
+Il a été convenu ce qui suit :
+
+Article 1 : Engagement
+M. Zakaria est engagé en qualité de Développeur Fullstack à compter du 1er juin 2026.
+
+Article 2 : Période d'essai
+Le présent contrat est conclu avec une période d'essai de 6 mois, renouvelable une fois pour la même durée. Durant cette période, chacune des parties pourra rompre le contrat sans préavis ni indemnité.
+
+Article 3 : Durée du travail
+La durée du travail est fixée à 55 heures par semaine, réparties du lundi au samedi. Aucune heure supplémentaire ne sera rémunérée.
+
+Article 4 : Rémunération
+En contrepartie de ses services, le salarié percevra une rémunération mensuelle nette de 2000 MAD.
+
+Article 5 : Clause de non-concurrence
+En cas de rupture du présent contrat, pour quelque motif que ce soit, le salarié s'interdit d'exercer une activité concurrente sur tout le territoire national pendant une durée de 10 ans. Cette clause ne donne lieu à aucune contrepartie financière.
+
+Fait à Casablanca, le 15 mai 2026.

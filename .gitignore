@@ -1,0 +1,27 @@
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers de configuration sensibles (API Keys)
+.env
+*.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+
+# Base de données vectorielle (ChromaDB)
+# Il est préférable de ne pas push la base de données sur Git, 
+# le script pipeline.py permet de la recréer facilement.
+data/chromadb/
+
+# Fichiers temporaires ou OS
+.DS_Store
+Thumbs.db
+
+# Note : Nous NE mettons PAS .streamlit/ dans le gitignore car il contient 
+# le config.toml qui corrige le bug du "File Watcher" de Streamlit !

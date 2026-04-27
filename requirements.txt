@@ -1,0 +1,22 @@
+# --- Core Frameworks ---
+llama-index
+langchain
+langgraph
+
+# --- LLM Provider (Google Gemini) ---
+langchain-google-genai
+
+# --- Embeddings (local, gratuit) ---
+llama-index-embeddings-huggingface
+
+# --- Vector Store ---
+llama-index-vector-stores-chroma
+chromadb
+
+# --- Utilitaires ---
+python-dotenv
+pypdf
+
+# --- Interface Web ---
+streamlit
+python-docx
